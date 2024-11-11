@@ -129,6 +129,9 @@ export default function Home() {
                     </p>
                     <h4>5. PlanIT - Revalize </h4>
                     <p className="lead" style={{marginLeft: '16px'}}>
+                        <i>Key techs: Python - Django, Elastic search, PostgresSQL</i>
+                    </p>
+                    <p className="lead" style={{marginLeft: '16px'}}>
                         <AddTaskIcon/> This is a project focused on medical devices. The project handles a large amount
                         of data that needs to be processed as quickly as possible.
                     </p>
@@ -144,6 +147,9 @@ export default function Home() {
                         <AddTaskIcon/> For log management, Kibana and Graylog are used.
                     </p>
                     <h4>6. Social - Interior </h4>
+                    <p className="lead" style={{marginLeft: '16px'}}>
+                        <i>Key techs: Java, NodeJS, .NET, MySQL, ReactJS</i>
+                    </p>
                     <p className="lead" style={{marginLeft: '16px'}}>
                         <AddTaskIcon/> This is a project focused on providing a platform for selling products, similar
                         to Shopee. The project handles a large volume of data, with several million records. I have
