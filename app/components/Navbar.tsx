@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 export default function Navbar() {
     return (
-        <nav className="navbar navbar-expand-lg navbar-light menu-bg-color fixed-top">
+        <nav className="navbar navbar-expand-lg navbar-light bg-dark fixed-top">
             <div className="container">
                 <button
                     className="navbar-toggler"
